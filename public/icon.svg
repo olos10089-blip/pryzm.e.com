@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#121316"/>
+  <rect x="32" y="32" width="448" height="448" rx="48" fill="#18191e" stroke="#2a2c34" stroke-width="4"/>
+  <!-- Brutalist concrete pyramid prism logo -->
+  <polygon points="256,96 400,384 256,336" fill="#c5a880"/>
+  <polygon points="256,96 256,336 112,384" fill="#686a70"/>
+  <polygon points="112,384 256,336 256,416" fill="#3a3c44"/>
+  <polygon points="400,384 256,416 256,336" fill="#8f7858"/>
+  <circle cx="256" cy="240" r="16" fill="#ffffff" opacity="0.9"/>
+</svg>
